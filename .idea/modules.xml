@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Testing_and_POC.iml" filepath="$PROJECT_DIR$/.idea/modules/Testing_and_POC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Testing_and_POC.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Testing_and_POC.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Testing_and_POC.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Testing_and_POC.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Testing_and_POC.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Testing_and_POC.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Testing_and_POC.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Testing_and_POC.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
